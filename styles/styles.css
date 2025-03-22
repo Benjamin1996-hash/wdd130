@@ -1,0 +1,31 @@
+/* Styles for the navigation bar */
+nav {
+    background-color: darkblue; 
+    padding: 10px;
+}
+
+/* Styles for anchor tags inside the navigation bar */
+nav a {
+    color: white; 
+    display: block;
+    padding: 20px;
+}
+
+/* Styles for h1 elements */
+h1 {
+    color: darkblue;
+}
+
+/* Styles for image elements */
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+
+/* Styles for paragraph elements */
+p {
+    padding: 10px;
+}
